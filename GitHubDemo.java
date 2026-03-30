@@ -22,9 +22,9 @@ public class GitHubDemo {
     }
 
     public static float divide(int x, int y){
-        //Function completed by ???
+        //Function completed by Kevin Smith
         float quotient = 0;
-        //complete me
+        quotient = (float) x / y;
         return quotient;
     }
 
