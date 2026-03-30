@@ -15,9 +15,9 @@ public class GitHubDemo {
     }
 
     public static int multiply(int x, int y){
-        //Function completed by ???
+        //Function completed by Long Quach
         int product = 0;
-        // complete me
+        product = x * y;
         return product;
     }
 
