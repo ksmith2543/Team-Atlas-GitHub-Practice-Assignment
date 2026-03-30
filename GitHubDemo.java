@@ -15,9 +15,9 @@ public class GitHubDemo {
     }
 
     public static int multiply(int x, int y){
-        //Function completed by ???
-        int product = 0;
-        //complete me
+        //Function completed by Sebastian N
+        int product = x * y;
+        
         return product;
     }
 
