@@ -1,9 +1,10 @@
 public class GitHubDemo {
 
     public static int sum(int x, int y){
-        //Function completed by ???
+        //Function completed by Rayan Salahuddin
         int sum = 0;
         //complete me
+        sum=x+y;
         return sum;
     }
 
