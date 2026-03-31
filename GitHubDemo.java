@@ -11,7 +11,7 @@ public class GitHubDemo {
     public static int subtract(int x, int y){
         //Function completed by Sebastian
         int difference = y-x;
-        //complete me
+        //completed!!
         return difference;
     }
 
